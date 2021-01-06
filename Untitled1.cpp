@@ -2,7 +2,7 @@
 #include<math.h>
 int main()
 {
-	int s=0;
+	int s=0,t=0;
 float pf,pfn,pm,pmn,mat,succ,success,failure,et,pasr,losr,mr,fn,fi,pn;
 int fail;
 float n=1000000;
